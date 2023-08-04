@@ -39,10 +39,10 @@ $ node server.js
 The server.js will run on port 3001
 Try to open the index.html file in your browser and use the application
 
-##Usage
+## Usage
 Open the index.html file and you will see the client list will be displayed
 Click a client and the details of the client will be displayed on a card
 To close the application click the button at the bottom of the screen to close.
 
-##API Usage
+## API Usage
 API is provided by sunbasedata.com 
