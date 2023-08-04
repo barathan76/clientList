@@ -25,6 +25,8 @@ In order to install this project try to clone the project into your local machin
 Try to install git in your local machine and enter this command in git bash or cmd
 ```bash
 $ git clone https://github.com/barathan76/clientList.git
+```
+```bash
 $ cd clientList
 ```
 
